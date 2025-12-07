@@ -18,11 +18,13 @@ MLP classification on Iris Dataset
 
 SVR and MLP regression on Housing Dataset
 
+Custom Naïve Bayes Classifier with Gaussian Distribution on Iris Dataset
+
+Feature Selection with Principal Component Analysis (PCA) on MNIST Dataset
+
 
 
 ## How to use
 
 Each project folder is self-contained and includes its own documentation.
-
-
 
