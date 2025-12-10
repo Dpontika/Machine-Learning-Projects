@@ -2,9 +2,7 @@
 
 
 
-This project implements PCA for feature selection and dimensionality reduction in the context of digit classification. Using the MNIST 4 vs 9 dataset, it's demonstrated
-
-how PCA transforms 784 raw pixel features into a smaller set of meaningful components and significantly improves the performance of a Gaussian Naïve Bayes classifier.
+This project implements PCA for feature selection and dimensionality reduction in the context of digit classification. Using the MNIST 4 vs 9 dataset, it's demonstrated how PCA transforms 784 raw pixel features into a smaller set of meaningful components and significantly improves the performance of a Gaussian Naïve Bayes classifier.
 
 
 
